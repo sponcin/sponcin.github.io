@@ -4,6 +4,7 @@ h1 {
 
 body {
      background-color: #fcfaf8;
+     background-image: mybackground.jpg;
 }
 div {
    background-color: #ba7476;
