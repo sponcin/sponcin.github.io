@@ -20,6 +20,10 @@ div {
    width: 100%;
 }
 
+p {
+   width: 500px;
+}
+
 .btn1 {
 margin-top: 50px;
 margin-bottom: 50px;
