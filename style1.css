@@ -1,6 +1,9 @@
 body {
    background-image: url("mybackground.jpg");
    height: 1000px;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
 }
 
 h1 {
