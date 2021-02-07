@@ -1,3 +1,8 @@
+body {
+   background-image: url("mybackground.jpg");
+   width: 100%;
+}
+
 h1 {
    color: rgb(0, 232, 15);
 }  
