@@ -6,10 +6,9 @@ body {
      background-color: rgb(97, 250, 255);
 }
 div {
-   background-color: lightblue;
-   width: 200px;
+   background-color: #ba7476;
+   width: 100%;
    padding: 25px;
-   border: 25px solid navy;
 }
             
  
