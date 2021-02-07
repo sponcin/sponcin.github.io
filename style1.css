@@ -3,12 +3,11 @@ h1 {
 }  
 
 body {
-     background-color: rgb(97, 250, 255);
+     background-color: #fcfaf8;
 }
 div {
    background-color: #ba7476;
    width: 100%;
-   padding: 25px;
 }
             
  
