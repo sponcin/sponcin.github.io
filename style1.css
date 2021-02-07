@@ -6,6 +6,10 @@ body {
    background-position: center;
 }
 
+tr {
+  background-color: #4c4b53;
+}
+
 h1 {
    color: #ba7476;
 }  
