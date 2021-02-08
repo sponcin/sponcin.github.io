@@ -25,7 +25,9 @@ div {
 }
 
 p {
-   width: 800px;
+	color: #ba7476;
+	width: 800px;
+	text-indent: 20px;
 }
 
 
