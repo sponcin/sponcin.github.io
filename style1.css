@@ -22,6 +22,7 @@ div {
    background-color: #ba7476;
    width: 100%;
    min-width: 400px;
+	padding: 0px;
 }
 
 p {
