@@ -12,6 +12,7 @@ table {
   border: #4c4b53;
   border-collapse: collapse;
   width: 100%;
+  min-width: 400px;
 }
 
 h1 {
