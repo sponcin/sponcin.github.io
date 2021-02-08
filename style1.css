@@ -38,6 +38,7 @@ td {
           
 .about {
 	color: #4c4b53;
+	opacity: 0.5;
 	text-indent: 20px;
 	text-align: left;
 }
