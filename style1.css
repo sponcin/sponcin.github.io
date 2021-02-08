@@ -25,10 +25,7 @@ div {
 }
 
 p {
-	color: #ba7476;
 	width: 800px;
-	text-indent: 20px;
-	text-align: right;
 }
 
 
@@ -38,5 +35,10 @@ td {
     text-align: center;
     vertical-align: middle;
 }
-            
+          
+.about {
+	color: #4c4b53;
+	text-indent: 20px;
+}
+	
  
