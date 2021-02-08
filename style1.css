@@ -9,6 +9,7 @@ body {
 
 .aboutbg {
 	background: url(mybackground.jpg) no-repeat center center fixed;	
+	background-color: none;
 }
 
 table {
